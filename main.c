@@ -65,5 +65,5 @@ public static void enterprise(String[] d, m1, m2){
 
     flatbedgooseneck = "currently unavailable"
     onetonflatbed_gooseneck = 129.99 * d + 0.79 * m1
-
+    return 0;
 }
