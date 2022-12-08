@@ -1,4 +1,5 @@
-// Marvish Chandra
+// Marvish Chandra\
+// Updated Dec 2022
 #include <stdio.h>
 
 // h = per hour, m = per mile, d = day
